@@ -1,0 +1,11 @@
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.exe.config
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.exe
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.pdb
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.xml
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.Form1.resources
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.Resources.resources
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.vbproj.GenerateResource.Cache
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.exe
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.xml
+c:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.pdb
+C:\Users\Redaj\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.vbprojResolveAssemblyReference.cache

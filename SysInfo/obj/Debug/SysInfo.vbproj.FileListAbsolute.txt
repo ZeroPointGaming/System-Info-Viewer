@@ -1,0 +1,11 @@
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.xml
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.vbprojResolveAssemblyReference.cache
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.Form1.resources
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.Resources.resources
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.vbproj.GenerateResource.Cache
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.exe
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.xml
+c:\users\redaj\documents\visual studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.pdb
